@@ -1,6 +1,6 @@
 # ESAA
 
-This repository contains my study materials, assignments, and projects completed as a member of **ESAA (Ewha Statistical Analysis Association)**.
+This repository contains my study materials, assignments, and projects completed as a member of **ESAA (Ewha Statistic Analysis Association)**.
 
 ESAA is an academic association focused on data analysis and artificial intelligence at Ewha Womans University. Through YB and OB activities, I studied and applied various topics in data analysis, machine learning, deep learning, and NLP.
 
